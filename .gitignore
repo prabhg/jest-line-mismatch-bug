@@ -1,0 +1,15 @@
+## IDE
+.idea
+.vscode
+
+## node
+node_modules/
+
+## system
+.DS_Store
+npm-debug.log
+package-lock.json
+
+## build
+dist/
+artifacts/

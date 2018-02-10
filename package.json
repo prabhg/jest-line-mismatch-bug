@@ -1,0 +1,20 @@
+{
+  "name": "jest-line-mismatch-bug",
+  "version": "0.0.1",
+  "description": "A repo to reproduce the jest/typescript error line mismatch bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "ts-jest",
+    "jest"
+  ],
+  "author": "prabhg",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^22.2.2",
+    "ts-jest": "^22.0.3",
+    "typescript": "^2.7.1"
+  }
+}
